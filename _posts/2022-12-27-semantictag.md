@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "시맨틱 태그의 목적과 주요 용도"
-categories: HTML
-tag: html
+categories: html
+tag: [html]
 toc: true
 toc_sticky : true
 ---
@@ -11,7 +11,7 @@ toc_sticky : true
 
 ## 1.1. 시맨틱 태그란?
 
-- Semantic은 "의미론적인"이라는 뜻을 가진 형용사로, 시맨틱 태그란 "**의미가 있는 태그**"라고 할 수 있다.
+- Semantic은 "의미론적"이라는 뜻을 가진 형용사로, 시맨틱 태그란 "**의미가 있는 태그**"라고 할 수 있다.
 
 Semantic Markup이라고도 불리는 **Semantic Tag**는 각 태그가 어떤 역할을 하는지 한눈에 구분하기 위해 나타낸 것으로,
 
