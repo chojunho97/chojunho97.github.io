@@ -2,7 +2,7 @@
 layout: single
 title: "시맨틱 태그의 목적과 주요 용도"
 categories: HTML
-tag: [HTML, Semantic Tag]
+tag: html
 toc: true
 toc_sticky : true
 ---
