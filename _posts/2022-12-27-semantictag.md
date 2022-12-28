@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "시맨틱 태그의 목적과 주요 용도"
-categories: html
-tag: [html]
+categories: semantictag
+tag: [semantictag]
 toc: true
 toc_sticky : true
 ---
